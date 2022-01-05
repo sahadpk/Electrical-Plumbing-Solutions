@@ -3545,3 +3545,12 @@ label {
 }
 
 /*# sourceMappingURL=maps/style.css.map */
+.whatsapp-msg-sticky{
+  color: red;
+  position: fixed;
+  z-index: 4000;
+  margin-top: 90vh;
+  width: 100%;
+  text-align: end;
+  float: right;
+}
